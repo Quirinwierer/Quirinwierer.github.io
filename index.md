@@ -7,3 +7,7 @@ Ged is a wizard from the isle of Gont in the fantasy world of Earthsea. After be
 * smart
 * became wiser
 * powerful
+
+## Famous Quote of Ged
+
+>It is very hard for evil to take hold of the unconsenting soul.
